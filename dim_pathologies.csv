@@ -1,0 +1,41 @@
+﻿id_pathologie,code_CIM10,libelle_pathologie,famille_pathologie,niveau_gravite,duree_moy_reference,cout_moyen_reference
+1,I21,"Infarctus du myocarde",Cardiologie,Critique,10,12000
+2,I50,"Insuffisance cardiaque",Cardiologie,Élevé,12,9000
+3,I48,"Fibrillation auriculaire",Cardiologie,Modéré,6,6000
+4,I20,"Angine de poitrine",Cardiologie,Modéré,5,5000
+5,I33,"Endocardite infectieuse",Cardiologie,Élevé,15,11000
+6,I26,"Embolie pulmonaire",Cardiologie,Critique,10,10000
+7,J18,"Pneumonie communautaire",Pneumologie,Modéré,8,4000
+8,J44,"Exacerbation de BPCO",Pneumologie,Modéré,7,3500
+9,J46,"Asthme aigu grave",Pneumologie,Faible,4,2500
+10,J93,"Pneumothorax spontané",Pneumologie,Modéré,6,4500
+11,J84,"Fibrose pulmonaire idiopathique",Pneumologie,Élevé,10,6000
+12,J90,"Pleurésie exsudative",Pneumologie,Modéré,6,3000
+13,S72,"Fracture du col du fémur",Orthopédie,Élevé,15,8000
+14,M16,"Coxarthrose - Prothèse totale de hanche",Orthopédie,Élevé,12,9000
+15,M17,"Gonarthrose - Prothèse totale de genou",Orthopédie,Élevé,12,9000
+16,S22,"Fracture vertébrale",Orthopédie,Modéré,10,6000
+17,M51,"Hernie discale lombaire opérée",Orthopédie,Modéré,5,5000
+18,S52,"Fracture de l'extrémité distale du radius",Orthopédie,Faible,3,2500
+19,I63,"Accident vasculaire cérébral ischémique",Neurologie,Critique,14,10000
+20,I61,"Accident vasculaire cérébral hémorragique",Neurologie,Critique,18,12000
+21,G40,"Épilepsie - État de mal épileptique",Neurologie,Modéré,5,4000
+22,G35,"Sclérose en plaques - Poussée",Neurologie,Élevé,8,7000
+23,G20,"Maladie de Parkinson - Décompensation",Neurologie,Modéré,7,5000
+24,G03,"Méningite bactérienne",Neurologie,Élevé,10,8000
+25,C34,"Cancer bronchopulmonaire",Oncologie,Critique,12,15000
+26,C50,"Cancer du sein",Oncologie,Élevé,8,12000
+27,C18,"Cancer colorectal",Oncologie,Élevé,12,13000
+28,C91,"Leucémie aiguë lymphoblastique",Oncologie,Critique,20,18000
+29,C85,"Lymphome non hodgkinien",Oncologie,Élevé,10,14000
+30,C61,"Cancer de la prostate",Oncologie,Modéré,6,10000
+31,K80,"Cholécystite aiguë lithiasique",Gastro-entérologie,Modéré,5,4000
+32,K35,"Appendicite aiguë",Gastro-entérologie,Faible,3,3000
+33,K85,"Pancréatite aiguë",Gastro-entérologie,Élevé,10,6000
+34,K56,"Occlusion intestinale aiguë",Gastro-entérologie,Élevé,8,7000
+35,K74,"Cirrhose hépatique décompensée",Gastro-entérologie,Élevé,12,5500
+36,R07,"Douleur thoracique non cardiaque",Urgences,Faible,2,1500
+37,S09,"Traumatisme crânien léger",Urgences,Faible,2,1200
+38,T50,"Intoxication médicamenteuse aiguë",Urgences,Modéré,3,2000
+39,J96,"Détresse respiratoire aiguë",Urgences,Critique,4,5000
+40,R65,"Choc septique",Urgences,Critique,5,8000

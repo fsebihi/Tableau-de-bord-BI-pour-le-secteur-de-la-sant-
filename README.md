@@ -230,7 +230,8 @@ Healthcare-BI-Dashboard/
 
 1. **Cloner le repository**
 ```bash
- https://github.com/fsebihi/Tableau-de-bord-BI-pour-le-secteur-de-la-sant-```
+git clone https://github.com/Tarek-KHAZEM/Healthcare-BI-Dashboard.git
+```
 
 2. **Ouvrir le fichier** `dashboard/HEALTHCARE.pbix` avec Power BI Desktop
 
@@ -242,9 +243,9 @@ Healthcare-BI-Dashboard/
 
 ## 👤 Auteur
 
-**sebihi fares**  
+**Tarek KHAZEM**  
 MS Business Intelligence & Analytics — CY Tech Cergy  
- 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tarek_Khazem-blue?logo=linkedin)](https://www.linkedin.com/in/tarek-khazem-43901139a/)
 
 ---
 

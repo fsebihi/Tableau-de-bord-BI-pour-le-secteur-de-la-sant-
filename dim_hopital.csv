@@ -1,0 +1,9 @@
+﻿id_hopital,nom_hopital,adresse,ville,code_postal,region,latitude,longitude,type_etablissement,nombre_lits,statut,telephone,taux_occupation_cible
+1,"CHU Pitié-Salpêtrière","47 Boulevard de l'Hôpital",Paris,75013,"Île-de-France",48.8566,2.3522,"CHU",85,Public,01 42 16 00 00,92.5
+2,"CHU de Lyon - Hôpital Édouard Herriot","5 Place d'Arsonval",Lyon,69003,"Auvergne-Rhône-Alpes",45.7640,4.8357,"CHU",75,Public,04 72 11 69 11,90
+3,"Hôpital de la Timone","264 Rue Saint-Pierre",Marseille,13005,"Provence-Alpes-Côte d'Azur",43.2965,5.3698,"CHR",70,Public,04 91 38 00 00,88
+4,"Clinique Saint-Augustin","114 Avenue d'Arès",Bordeaux,33000,"Nouvelle-Aquitaine",44.8378,-0.5792,"Clinique privée",45,Privé,05 56 00 43 43,85
+5,"CHRU de Lille - Hôpital Claude Huriez","Rue Michel Polonovski",Lille,59037,"Hauts-de-France",50.6292,3.0573,"CHU",65,Public,03 20 44 59 62,91
+6,"Hôpital de Hautepierre","Avenue Molière",Strasbourg,67200,"Grand Est",48.5734,7.7521,"CHR",55,Public,03 88 12 80 00,87.5
+7,"Groupe Hospitalier Privé du Confluent","2 Rue Éric Tabarly",Nantes,44277,"Pays de la Loire",47.2184,-1.5536,"ESPIC",50,ESPIC,02 28 27 21 21,82
+8,"Hôpital de proximité de Muret","39 Avenue de Lacroix-Falgarde",Toulouse,31300,"Occitanie",43.6047,1.4442,"Hôpital de proximité",40,ESPIC,05 61 51 51 51,78
